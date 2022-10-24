@@ -43,7 +43,6 @@ class HowWeWork extends Component {
                     </Row>
                 </Container>
             </div>
-
         )
     }
 }
